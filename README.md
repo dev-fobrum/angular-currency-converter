@@ -1,3 +1,9 @@
+# Featured Images
+<div align="center">
+    <img src="./screenshots/screenshot_1.png" width="860">
+    <img src="./screenshots/screenshot_2.png" width="860">
+</div>
+
 # CurrencyConverter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
